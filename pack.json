@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-react-frontend",
+    "description": "React and TypeScript frontend skills with shadcn/ui and Tailwind CSS",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["react", "typescript"],
+    "contents": {
+        "skills": ["typescript-react", "ui-design", "tailwindcss-development"],
+        "agents": ["frontend-dev", "ui-ux-designer", "qa-node"],
+        "hooks": []
+    },
+    "tags": ["react", "typescript", "frontend", "shadcn", "tailwind", "zustand"]
+}
